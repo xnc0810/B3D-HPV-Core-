@@ -117,9 +117,8 @@ We abandon bespoke crystal-based hardware and adopt a **modular system using com
 
 ## Citation & DOI
 
-DOI: 10.5281/zenodo.19816319
-https://doi.org/10.5281/zenodo.19816319
-
+DOI: 10.5281/zenodo.19952091
+https://doi.org/10.5281/zenodo.19952091
 ---
 
 ## License
